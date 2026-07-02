@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<stations count="342" created="2026-06-26 14:18:43">
+  <station name="Antoniówka" fullName="Antoniówka" shortName="Antoniówka" id="48769" lng="21.278755" lat="51.424785" evaNumber="5100334" ibnrNumber="2022" zoneKM="0" zoneZTM="0" />
+  <station name="Arcelin" fullName="Arcelin" shortName="Arcelin" id="36772" lng="20.318475" lat="52.659753" evaNumber="5100345" ibnrNumber="1021" zoneKM="0" zoneZTM="0" />
+  <station name="Augustówka" fullName="Augustówka" shortName="Augustówka" id="38984" lng="21.513285" lat="51.988042" evaNumber="5100347" ibnrNumber="1023" zoneKM="0" zoneZTM="0" />
+  <station name="Baboszewo" fullName="Baboszewo" shortName="Baboszewo" id="36780" lng="20.258608" lat="52.683857" evaNumber="5100373" ibnrNumber="1025" zoneKM="0" zoneZTM="0" />
+  <station name="Barchów" fullName="Barchów" shortName="Barchów" id="37929" lng="21.647423" lat="52.517627" evaNumber="5100359" ibnrNumber="1031" zoneKM="0" zoneZTM="0" />
+  <station name="Barcząca" fullName="Barcząca" shortName="Barcząca" id="39081" lng="21.626329" lat="52.156759" evaNumber="5100666" ibnrNumber="1032" zoneKM="0" zoneZTM="0" />
+  <station name="Bartodzieje" fullName="Bartodzieje" shortName="Bartodzieje" id="48421" lng="21.178036" lat="51.525691" evaNumber="5100406" ibnrNumber="2024" zoneKM="0" zoneZTM="0" />
+  <station name="Bąkowiec" fullName="Bąkowiec" shortName="Bąkowiec" id="50203" lng="21.724882" lat="51.517681" evaNumber="5100476" ibnrNumber="2025" zoneKM="0" zoneZTM="0" />
+  <station name="Bednary" fullName="Bednary" shortName="Bednary" id="32953" lng="20.064737" lat="52.105491" evaNumber="5100594" ibnrNumber="1034" zoneKM="0" zoneZTM="0" />
+  <station name="Białki Siedleckie" fullName="Białki Siedleckie" shortName="Białki Siedlecki" id="39461" lng="22.309415" lat="52.128642" evaNumber="5100575" ibnrNumber="1042" zoneKM="0" zoneZTM="0" />
+  <station name="Bieliny Opoczyńskie" fullName="Bieliny Opoczyńskie" shortName="Bieliny Opocz." id="48850" lng="20.502361" lat="51.423924" evaNumber="5100523" ibnrNumber="2028" zoneKM="0" zoneZTM="0" />
+  <station name="Błonie" fullName="Błonie" shortName="Błonie" id="34363" lng="20.608054" lat="52.186588" evaNumber="5100496" ibnrNumber="1052" zoneKM="3" zoneZTM="0" />
+  <station name="Błonie Rokitno" fullName="Błonie Rokitno" shortName="Błonie Rokitno" id="280301" lng="20.641711" lat="52.189554" evaNumber="0" ibnrNumber="6633" zoneKM="3" zoneZTM="0" />
+  <station name="Borki-Kosy" fullName="Borki-Kosy" shortName="Borki-Kosy" id="39487" lng="22.358397" lat="52.088986" evaNumber="5100525" ibnrNumber="1056" zoneKM="0" zoneZTM="0" />
+  <station name="Borowiki" fullName="Borowiki" shortName="Borowiki" id="25320" lng="23.215394" lat="52.482112" evaNumber="5100545" ibnrNumber="1058" zoneKM="0" zoneZTM="0" />
+  <station name="Boża Wola" fullName="Boża Wola" shortName="Boża Wola" id="34397" lng="20.526922" lat="52.189890" evaNumber="5100357" ibnrNumber="1063" zoneKM="3" zoneZTM="0" />
+  <station name="Brody Warszawskie" fullName="Brody Warszawskie" shortName="Brody Warszaw." id="36483" lng="20.747923" lat="52.513679" evaNumber="5100405" ibnrNumber="1065" zoneKM="0" zoneZTM="0" />
+  <station name="Brwinów" fullName="Brwinów" shortName="Brwinów" id="34132" lng="20.719154" lat="52.141970" evaNumber="5100633" ibnrNumber="1066" zoneKM="3" zoneZTM="0" />
+  <station name="Cegłów" fullName="Cegłów" shortName="Cegłów" id="39883" lng="21.736290" lat="52.148427" evaNumber="5100700" ibnrNumber="1069" zoneKM="0" zoneZTM="0" />
+  <station name="Celestynów" fullName="Celestynów" shortName="Celestynów" id="38943" lng="21.392069" lat="52.058869" evaNumber="5100702" ibnrNumber="1070" zoneKM="3" zoneZTM="0" />
+  <station name="Chorzele" fullName="Chorzele" shortName="Chorzele" id="23416" lng="20.938329" lat="53.282587" evaNumber="0" ibnrNumber="1074" zoneKM="0" zoneZTM="0" />
+  <station name="Chotomów" fullName="Chotomów" shortName="Chotomów" id="178633" lng="20.884626" lat="52.415782" evaNumber="5100826" ibnrNumber="1075" zoneKM="2" zoneZTM="0" />
+  <station name="Chronów" fullName="Chronów" shortName="Chronów" id="49056" lng="20.930099" lat="51.358136" evaNumber="5100807" ibnrNumber="2048" zoneKM="0" zoneZTM="0" />
+  <station name="Chrosna" fullName="Chrosna" shortName="Chrosna" id="38968" lng="21.448501" lat="52.031491" evaNumber="5100722" ibnrNumber="1078" zoneKM="0" zoneZTM="0" />
+  <station name="Chrzęsne" fullName="Chrzęsne" shortName="Chrzęsne" id="38125" lng="21.474548" lat="52.447088" evaNumber="5100806" ibnrNumber="1080" zoneKM="0" zoneZTM="0" />
+  <station name="Chynów" fullName="Chynów" shortName="Chynów" id="48595" lng="21.100859" lat="51.902243" evaNumber="5100850" ibnrNumber="2049" zoneKM="0" zoneZTM="0" />
+  <station name="Ciechanów" fullName="Ciechanów" shortName="Ciechanów" id="36939" lng="20.591582" lat="52.883124" evaNumber="5100095" ibnrNumber="20" zoneKM="0" zoneZTM="0" />
+  <station name="Ciechanów Przemysł." fullName="Ciechanów Przemysłowy" shortName="Ciechanów Przem." id="36913" lng="20.615455" lat="52.864663" evaNumber="5100741" ibnrNumber="5094" zoneKM="0" zoneZTM="0" />
+  <station name="Cieksyn" fullName="Cieksyn" shortName="Cieksyn" id="36749" lng="20.665439" lat="52.577550" evaNumber="5100736" ibnrNumber="1082" zoneKM="0" zoneZTM="0" />
+  <station name="Cierpigórz" fullName="Cierpigórz" shortName="Cierpigórz" id="39727" lng="22.595629" lat="52.226353" evaNumber="5100733" ibnrNumber="1083" zoneKM="0" zoneZTM="0" />
+  <station name="Cisie" fullName="Cisie" shortName="Cisie" id="39149" lng="21.390619" lat="52.210047" evaNumber="5100729" ibnrNumber="1085" zoneKM="3" zoneZTM="0" />
+  <station name="Czachówek Górny" fullName="Czachówek Górny" shortName="Czachówek Górny" id="40436" lng="21.077663" lat="51.967787" evaNumber="5100707" ibnrNumber="1087" zoneKM="3" zoneZTM="0" />
+  <station name="Czachówek Płd." fullName="Czachówek Południowy" shortName="Czachówek Płd." id="40444" lng="21.081187" lat="51.959160" evaNumber="5100852" ibnrNumber="1088" zoneKM="3" zoneZTM="0" />
+  <station name="Czachówek Wsch." fullName="Czachówek Wschodni" shortName="Czachówek Wsch." id="40360" lng="21.104608" lat="51.973544" evaNumber="5100858" ibnrNumber="1090" zoneKM="3" zoneZTM="0" />
+  <station name="Czeremcha" fullName="Czeremcha" shortName="Czeremcha" id="25205" lng="23.353566" lat="52.518971" evaNumber="5100863" ibnrNumber="424" zoneKM="0" zoneZTM="0" />
+  <station name="Czeruchy" fullName="Czeruchy" shortName="Czeruchy" id="36947" lng="20.506119" lat="52.935993" evaNumber="5100813" ibnrNumber="5106" zoneKM="0" zoneZTM="0" />
+  <station name="Czyżew" fullName="Czyżew" shortName="Czyżew" id="24737" lng="22.342168" lat="52.799733" evaNumber="0" ibnrNumber="28" zoneKM="0" zoneZTM="0" />
+  <station name="Dalanówek" fullName="Dalanówek" shortName="Dalanówek" id="36756" lng="20.462439" lat="52.594606" evaNumber="5100876" ibnrNumber="1098" zoneKM="0" zoneZTM="0" />
+  <station name="Dalekie" fullName="Dalekie" shortName="Dalekie" id="23713" lng="21.494564" lat="52.682772" evaNumber="5100875" ibnrNumber="1099" zoneKM="0" zoneZTM="0" />
+  <station name="Dąbkowizna" fullName="Dąbkowizna" shortName="Dąbkowizna" id="36640" lng="21.085529" lat="52.423811" evaNumber="5100884" ibnrNumber="1101" zoneKM="3" zoneZTM="0" />
+  <station name="Dąbrówka Zabłotnia" fullName="Dąbrówka Zabłotnia" shortName="Dąbrówka Zabłot." id="279429" lng="21.046080" lat="51.310445" evaNumber="0" ibnrNumber="6591" zoneKM="0" zoneZTM="0" />
+  <station name="Dębe Wielkie" fullName="Dębe Wielkie" shortName="Dębe Wielkie" id="39123" lng="21.422953" lat="52.199239" evaNumber="5100924" ibnrNumber="1107" zoneKM="3" zoneZTM="0" />
+  <station name="Dęblin" fullName="Dęblin" shortName="Dęblin" id="49809" lng="21.834316" lat="51.578215" evaNumber="5100099" ibnrNumber="32" zoneKM="0" zoneZTM="0" />
+  <station name="Dobczyn" fullName="Dobczyn" shortName="Dobczyn" id="36384" lng="21.313945" lat="52.379225" evaNumber="5100961" ibnrNumber="1109" zoneKM="3" zoneZTM="0" />
+  <station name="Dobieszyn" fullName="Dobieszyn" shortName="Dobieszyn" id="48520" lng="21.176502" lat="51.631105" evaNumber="5101038" ibnrNumber="2062" zoneKM="0" zoneZTM="0" />
+  <station name="Drzewica" fullName="Drzewica" shortName="Drzewica" id="48827" lng="20.465884" lat="51.436875" evaNumber="5100986" ibnrNumber="34" zoneKM="0" zoneZTM="0" />
+  <station name="Działdowo" fullName="Działdowo" shortName="Działdowo" id="22442" lng="20.167490" lat="53.238576" evaNumber="5100100" ibnrNumber="402" zoneKM="0" zoneZTM="0" />
+  <station name="Dziewule" fullName="Dziewule" shortName="Dziewule" id="39495" lng="22.386079" lat="52.054805" evaNumber="5101015" ibnrNumber="1117" zoneKM="0" zoneZTM="0" />
+  <station name="Fronołów" fullName="Fronołów" shortName="Fronołów" id="39784" lng="22.929126" lat="52.360847" evaNumber="5101050" ibnrNumber="1122" zoneKM="0" zoneZTM="0" />
+  <station name="Garbatka-Letnisko" fullName="Garbatka-Letnisko" shortName="Garbatka-Letn." id="50286" lng="21.630248" lat="51.495086" evaNumber="5101072" ibnrNumber="2068" zoneKM="0" zoneZTM="0" />
+  <station name="Garwolin" fullName="Garwolin" shortName="Garwolin" id="39263" lng="21.553838" lat="51.901410" evaNumber="5101067" ibnrNumber="1124" zoneKM="0" zoneZTM="0" />
+  <station name="Gąsawy Plebańskie" fullName="Gąsawy Plebańskie" shortName="Gąsawy Pleb." id="49155" lng="20.947340" lat="51.231858" evaNumber="5101069" ibnrNumber="2069" zoneKM="0" zoneZTM="0" />
+  <station name="Gąsocin" fullName="Gąsocin" shortName="Gąsocin" id="36871" lng="20.721830" lat="52.737449" evaNumber="5101071" ibnrNumber="5141" zoneKM="0" zoneZTM="0" />
+  <station name="Gdańsk Główny" fullName="Gdańsk Główny" shortName="Gdańsk Główny" id="7500" lng="18.644015" lat="54.356096" evaNumber="5100009" ibnrNumber="40" zoneKM="0" zoneZTM="0" />
+  <station name="Gdańsk Oliwa" fullName="Gdańsk Oliwa" shortName="Gdańsk Oliwa" id="7583" lng="18.572003" lat="54.409621" evaNumber="5101104" ibnrNumber="5150" zoneKM="0" zoneZTM="0" />
+  <station name="Gdańsk Wrzeszcz" fullName="Gdańsk Wrzeszcz" shortName="Gdańsk Wrzeszcz" id="7534" lng="18.604988" lat="54.382017" evaNumber="5101307" ibnrNumber="5162" zoneKM="0" zoneZTM="0" />
+  <station name="Gdynia Główna" fullName="Gdynia Główna" shortName="Gdynia Główna" id="5900" lng="18.528482" lat="54.521231" evaNumber="5100010" ibnrNumber="41" zoneKM="0" zoneZTM="0" />
+  <station name="Gierwaty" fullName="Gierwaty" shortName="Gierwaty" id="23655" lng="21.604037" lat="52.992162" evaNumber="5101151" ibnrNumber="1128" zoneKM="0" zoneZTM="0" />
+  <station name="Gołotczyzna" fullName="Gołotczyzna" shortName="Gołotczyzna" id="36889" lng="20.681972" lat="52.784312" evaNumber="5101187" ibnrNumber="5188" zoneKM="0" zoneZTM="0" />
+  <station name="Gostynin" fullName="Gostynin" shortName="Gostynin" id="32359" lng="19.476370" lat="52.433632" evaNumber="5101279" ibnrNumber="1137" zoneKM="0" zoneZTM="0" />
+  <station name="Gośniewice" fullName="Gośniewice" shortName="Gośniewice" id="48645" lng="21.138140" lat="51.817690" evaNumber="5101269" ibnrNumber="2073" zoneKM="0" zoneZTM="0" />
+  <station name="Goworowo" fullName="Goworowo" shortName="Goworowo" id="23663" lng="21.581909" lat="52.921049" evaNumber="5101306" ibnrNumber="1138" zoneKM="0" zoneZTM="0" />
+  <station name="Gozdowo" fullName="Gozdowo" shortName="Gozdowo" id="32847" lng="19.695893" lat="52.728894" evaNumber="5101234" ibnrNumber="1139" zoneKM="0" zoneZTM="0" />
+  <station name="Góra Kalwaria" fullName="Góra Kalwaria" shortName="Góra Kalwaria" id="40345" lng="21.192633" lat="51.989218" evaNumber="5101167" ibnrNumber="1140" zoneKM="3" zoneZTM="0" />
+  <station name="Grabniak" fullName="Grabniak" shortName="Grabniak" id="263396" lng="21.705355" lat="51.712261" evaNumber="0" ibnrNumber="7155" zoneKM="0" zoneZTM="0" />
+  <station name="Grabowo" fullName="Grabowo" shortName="Grabowo" id="23333" lng="21.534423" lat="53.072436" evaNumber="0" ibnrNumber="1143" zoneKM="0" zoneZTM="0" />
+  <station name="Grabów n. Pilicą" fullName="Grabów n. Pilicą" shortName="Grabów n. Pilcą" id="48546" lng="21.182028" lat="51.741603" evaNumber="5101086" ibnrNumber="2076" zoneKM="0" zoneZTM="0" />
+  <station name="Grodzisk Maz." fullName="Grodzisk Mazowiecki" shortName="Grodzisk Maz." id="34165" lng="20.623020" lat="52.110299" evaNumber="5101255" ibnrNumber="1149" zoneKM="3" zoneZTM="0" />
+  <station name="Grodziszcze Maz." fullName="Grodziszcze Mazowieckie" shortName="Grodziszcze Maz." id="39867" lng="21.871969" lat="52.160688" evaNumber="5101332" ibnrNumber="1150" zoneKM="0" zoneZTM="0" />
+  <station name="Groszowice Wrzosów" fullName="Groszowice Wrzosów" shortName="Groszow. Wrzosów" id="279432" lng="21.300395" lat="51.429648" evaNumber="0" ibnrNumber="6590" zoneKM="0" zoneZTM="0" />
+  <station name="Grzegorzewo" fullName="Grzegorzewo" shortName="Grzegorzewo" id="37788" lng="21.428784" lat="52.485345" evaNumber="5101141" ibnrNumber="1156" zoneKM="0" zoneZTM="0" />
+  <station name="Halinów" fullName="Halinów" shortName="Halinów" id="39131" lng="21.350193" lat="52.223404" evaNumber="5101343" ibnrNumber="1158" zoneKM="2" zoneZTM="0" />
+  <station name="Iława Główna" fullName="Iława Główna" shortName="Iława Główna" id="21808" lng="19.573681" lat="53.581974" evaNumber="5100075" ibnrNumber="53" zoneKM="0" zoneZTM="0" />
+  <station name="Iłowo" fullName="Iłowo" shortName="Iłowo" id="22400" lng="20.293384" lat="53.165820" evaNumber="5101361" ibnrNumber="5228" zoneKM="0" zoneZTM="0" />
+  <station name="Jackowo Dworskie" fullName="Jackowo Dworskie" shortName="Jackowo Dworskie" id="36855" lng="20.775048" lat="52.631169" evaNumber="5101400" ibnrNumber="5233" zoneKM="0" zoneZTM="0" />
+  <station name="Jaktorów" fullName="Jaktorów" shortName="Jaktorów" id="34322" lng="20.550395" lat="52.086151" evaNumber="5101429" ibnrNumber="1165" zoneKM="0" zoneZTM="0" />
+  <station name="Janówek" fullName="Janówek" shortName="Janówek" id="36541" lng="20.778546" lat="52.425383" evaNumber="5101486" ibnrNumber="1167" zoneKM="3" zoneZTM="0" />
+  <station name="Jarzębia Łąka" fullName="Jarzębia Łąka" shortName="Jarzębia Łąka" id="37770" lng="21.447769" lat="52.457818" evaNumber="5101378" ibnrNumber="1170" zoneKM="0" zoneZTM="0" />
+  <station name="Jasienica Maz." fullName="Jasienica Mazowiecka" shortName="Jasienica Maz." id="36426" lng="21.398635" lat="52.415448" evaNumber="5101466" ibnrNumber="1171" zoneKM="3" zoneZTM="0" />
+  <station name="Jasionna Łowicka" fullName="Jasionna Łowicka" shortName="Jasionna Łowicka" id="32961" lng="20.123757" lat="52.124584" evaNumber="5101465" ibnrNumber="1172" zoneKM="0" zoneZTM="0" />
+  <station name="Jastrząb" fullName="Jastrząb" shortName="Jastrząb" id="49106" lng="20.985797" lat="51.249258" evaNumber="5101469" ibnrNumber="2091" zoneKM="0" zoneZTM="0" />
+  <station name="Jastrząbka" fullName="Jastrząbka" shortName="Jastrząbka" id="23366" lng="21.247515" lat="53.132585" evaNumber="0" ibnrNumber="1174" zoneKM="0" zoneZTM="0" />
+  <station name="Jedlnia Kościelna" fullName="Jedlnia Kościelna" shortName="Jedlnia Kościel" id="48744" lng="21.407817" lat="51.455143" evaNumber="5101410" ibnrNumber="2093" zoneKM="0" zoneZTM="0" />
+  <station name="Jedlnia-Letnisko" fullName="Jedlnia-Letnisko" shortName="Jedlnia-Letnisko" id="48751" lng="21.329335" lat="51.429936" evaNumber="5101395" ibnrNumber="2094" zoneKM="0" zoneZTM="0" />
+  <station name="Jesionka" fullName="Jesionka" shortName="Jesionka" id="34231" lng="20.334423" lat="52.014717" evaNumber="5101414" ibnrNumber="1180" zoneKM="0" zoneZTM="0" />
+  <station name="Jesionowiec" fullName="Jesionowiec" shortName="Jesionowiec" id="10645" lng="20.995792" lat="53.446610" evaNumber="0" ibnrNumber="5248" zoneKM="0" zoneZTM="0" />
+  <station name="Józefin" fullName="Józefin" shortName="Józefin" id="280495" lng="21.333161" lat="52.229084" evaNumber="0" ibnrNumber="6648" zoneKM="2" zoneZTM="0" />
+  <station name="Józefów" fullName="Józefów" shortName="Józefów" id="38851" lng="21.23406" lat="52.13862" evaNumber="5101453" ibnrNumber="1182" zoneKM="2" zoneZTM="2" />
+  <station name="Kaczorowo" fullName="Kaczorowo" shortName="Kaczorowo" id="36798" lng="20.173350" lat="52.726930" evaNumber="5104431" ibnrNumber="1184" zoneKM="0" zoneZTM="0" />
+  <station name="Kałęczyn" fullName="Kałęczyn" shortName="Kałęczyn" id="36863" lng="20.747440" lat="52.707362" evaNumber="5101571" ibnrNumber="5257" zoneKM="0" zoneZTM="0" />
+  <station name="Kątne" fullName="Kątne" shortName="Kątne" id="36848" lng="20.762267" lat="52.606688" evaNumber="5101803" ibnrNumber="5271" zoneKM="0" zoneZTM="0" />
+  <station name="Kęszyce" fullName="Kęszyce" shortName="Kęszyce" id="32979" lng="20.148014" lat="52.138177" evaNumber="5101587" ibnrNumber="1193" zoneKM="0" zoneZTM="0" />
+  <station name="Kietlanka" fullName="Kietlanka" shortName="Kietlanka" id="38323" lng="22.179173" lat="52.744134" evaNumber="0" ibnrNumber="1194" zoneKM="0" zoneZTM="0" />
+  <station name="Klembów" fullName="Klembów" shortName="Klembów" id="36418" lng="21.352964" lat="52.395929" evaNumber="5101658" ibnrNumber="1197" zoneKM="3" zoneZTM="0" />
+  <station name="Kobyłka" fullName="Kobyłka" shortName="Kobyłka" id="36335" lng="21.215625" lat="52.336955" evaNumber="5101534" ibnrNumber="1204" zoneKM="2" zoneZTM="2" />
+  <station name="Kobyłka Ossów" fullName="Kobyłka Ossów" shortName="Kobyłka Ossów" id="36327" lng="21.193341" lat="52.327319" evaNumber="5102639" ibnrNumber="1325" zoneKM="2" zoneZTM="2" />
+  <station name="Kołbiel" fullName="Kołbiel" shortName="Kołbiel" id="38950" lng="21.433213" lat="52.040531" evaNumber="5101661" ibnrNumber="1207" zoneKM="0" zoneZTM="0" />
+  <station name="Konopki" fullName="Konopki" shortName="Konopki" id="36970" lng="20.459537" lat="52.996891" evaNumber="5101706" ibnrNumber="5287" zoneKM="0" zoneZTM="0" />
+  <station name="Kończyce Radomskie" fullName="Kończyce Radomskie" shortName="Kończyce Radom." id="48470" lng="21.045301" lat="51.349119" evaNumber="5101883" ibnrNumber="2113" zoneKM="0" zoneZTM="0" />
+  <station name="Kornelin" fullName="Kornelin" shortName="Kornelin" id="34629" lng="20.206278" lat="52.183103" evaNumber="5101763" ibnrNumber="1209" zoneKM="0" zoneZTM="0" />
+  <station name="Kosiorki" fullName="Kosiorki" shortName="Kosiorki" id="39479" lng="22.336055" lat="52.107087" evaNumber="5101793" ibnrNumber="1210" zoneKM="0" zoneZTM="0" />
+  <station name="Kosów" fullName="Kosów" shortName="Kosów" id="279430" lng="21.063490" lat="51.346560" evaNumber="0" ibnrNumber="6634" zoneKM="0" zoneZTM="0" />
+  <station name="Koszewnica" fullName="Koszewnica" shortName="Koszewnica" id="39834" lng="21.986882" lat="52.169118" evaNumber="5101797" ibnrNumber="1213" zoneKM="0" zoneZTM="0" />
+  <station name="Kotuń" fullName="Kotuń" shortName="Kotuń" id="39792" lng="22.067857" lat="52.176292" evaNumber="5101733" ibnrNumber="1214" zoneKM="0" zoneZTM="0" />
+  <station name="Koziebrody" fullName="Koziebrody" shortName="Koziebrody" id="36822" lng="19.972593" lat="52.802072" evaNumber="5101905" ibnrNumber="1217" zoneKM="0" zoneZTM="0" />
+  <station name="Krężel" fullName="Krężel" shortName="Krężel" id="48629" lng="21.111121" lat="51.872375" evaNumber="5101585" ibnrNumber="2122" zoneKM="0" zoneZTM="0" />
+  <station name="Krośnice Mazowieckie" fullName="Krośnice Mazowieckie" shortName="Krośnice Maz." id="36962" lng="20.490538" lat="52.968144" evaNumber="5101589" ibnrNumber="5307" zoneKM="0" zoneZTM="0" />
+  <station name="Krusze" fullName="Krusze" shortName="Krusze" id="37622" lng="21.358431" lat="52.427172" evaNumber="5101826" ibnrNumber="1222" zoneKM="3" zoneZTM="0" />
+  <station name="Kruszyna" fullName="Kruszyna" shortName="Kruszyna" id="48587" lng="21.178685" lat="51.572606" evaNumber="5101881" ibnrNumber="2124" zoneKM="0" zoneZTM="0" />
+  <station name="Krynka Łukowska" fullName="Krynka Łukowska" shortName="Krynka Łukowska" id="39925" lng="22.375792" lat="52.006678" evaNumber="5101778" ibnrNumber="1223" zoneKM="0" zoneZTM="0" />
+  <station name="Krzymosze" fullName="Krzymosze" shortName="Krzymosze" id="39453" lng="22.439105" lat="52.177973" evaNumber="5101880" ibnrNumber="1226" zoneKM="0" zoneZTM="0" />
+  <station name="Kutno" fullName="Kutno" shortName="Kutno" id="32201" lng="19.348910" lat="52.226855" evaNumber="5100032" ibnrNumber="94" zoneKM="0" zoneZTM="0" />
+  <station name="Kutno Azory" fullName="Kutno Azory" shortName="Kutno Azory" id="32326" lng="19.304245" lat="52.239883" evaNumber="5100349" ibnrNumber="1024" zoneKM="0" zoneZTM="0" />
+  <station name="Legionowo" fullName="Legionowo" shortName="Legionowo" id="36509" lng="20.939925" lat="52.402606" evaNumber="5101981" ibnrNumber="428" zoneKM="2" zoneZTM="2" />
+  <station name="Legionowo Piaski" fullName="Legionowo Piaski" shortName="Legionowo Piaski" id="36525" lng="20.942711" lat="52.412615" evaNumber="5100323" ibnrNumber="1233" zoneKM="2" zoneZTM="2" />
+  <station name="Legionowo Przystanek" fullName="Legionowo Przystanek" shortName="Legionowo Przys." id="36517" lng="20.914237" lat="52.411367" evaNumber="5102099" ibnrNumber="1234" zoneKM="2" zoneZTM="2" />
+  <station name="Leokadia" fullName="Leokadia" shortName="Leokadia" id="39313" lng="21.632843" lat="51.767138" evaNumber="5102038" ibnrNumber="1235" zoneKM="0" zoneZTM="0" />
+  <station name="Lesiów" fullName="Lesiów" shortName="Lesiów" id="48439" lng="21.194532" lat="51.477705" evaNumber="5101994" ibnrNumber="2128" zoneKM="0" zoneZTM="0" />
+  <station name="Leszczydół" fullName="Leszczydół" shortName="Leszczydół" id="23721" lng="21.469211" lat="52.645736" evaNumber="5102115" ibnrNumber="1237" zoneKM="0" zoneZTM="0" />
+  <station name="Lębork" fullName="Lębork" shortName="Lębork" id="5256" lng="17.750410" lat="54.533542" evaNumber="5100129" ibnrNumber="101" zoneKM="0" zoneZTM="0" />
+  <station name="Lipowe Pole" fullName="Lipowe Pole" shortName="Lipowe Pole" id="48124" lng="20.901090" lat="51.155232" evaNumber="5102098" ibnrNumber="2131" zoneKM="0" zoneZTM="0" />
+  <station name="Lotnisko Modlin" fullName="Lotnisko Modlin" shortName="Lotnisko Modlin" id="0" lng="20.651567" lat="52.445559" evaNumber="5104732" ibnrNumber="0" zoneKM="0" zoneZTM="0" />
+  <station name="Lucynów" fullName="Lucynów" shortName="Lucynów" id="37820" lng="21.459207" lat="52.553079" evaNumber="5102161" ibnrNumber="1246" zoneKM="0" zoneZTM="0" />
+  <station name="Łaskarzew" fullName="Łaskarzew" shortName="Łaskarzew" id="39297" lng="21.608544" lat="51.798155" evaNumber="5102163" ibnrNumber="1250" zoneKM="0" zoneZTM="0" />
+  <station name="Łąck" fullName="Łąck" shortName="Łąck" id="32383" lng="19.596438" lat="52.487240" evaNumber="5101959" ibnrNumber="1253" zoneKM="0" zoneZTM="0" />
+  <station name="Łochów" fullName="Łochów" shortName="Łochów" id="37911" lng="21.687073" lat="52.533791" evaNumber="5102073" ibnrNumber="1255" zoneKM="0" zoneZTM="0" />
+  <station name="Łowicz Główny" fullName="Łowicz Główny" shortName="Łowicz Główny" id="32904" lng="19.955041" lat="52.105189" evaNumber="5100167" ibnrNumber="110" zoneKM="0" zoneZTM="0" />
+  <station name="Łuków" fullName="Łuków" shortName="Łuków" id="39909" lng="22.392772" lat="51.940553" evaNumber="5100168" ibnrNumber="115" zoneKM="0" zoneZTM="0" />
+  <station name="Malbork" fullName="Malbork" shortName="Malbork" id="7872" lng="19.042956" lat="54.036116" evaNumber="5100040" ibnrNumber="117" zoneKM="0" zoneZTM="0" />
+  <station name="Małkinia" fullName="Małkinia" shortName="Małkinia" id="38307" lng="22.033561" lat="52.694276" evaNumber="5100087" ibnrNumber="119" zoneKM="0" zoneZTM="0" />
+  <station name="Michalczew" fullName="Michalczew" shortName="Michalczew" id="48637" lng="21.120460" lat="51.845095" evaNumber="5102236" ibnrNumber="2152" zoneKM="0" zoneZTM="0" />
+  <station name="Michalin" fullName="Michalin" shortName="Michalin" id="38844" lng="21.22154" lat="52.15128" evaNumber="5102241" ibnrNumber="1270" zoneKM="2" zoneZTM="2" />
+  <station name="Michałów-Reginów" fullName="Michałów-Reginów" shortName="Michałów-Reginów" id="36574" lng="20.962784" lat="52.422589" evaNumber="5102203" ibnrNumber="1272" zoneKM="2" zoneZTM="0" />
+  <station name="Mienia" fullName="Mienia" shortName="Mienia" id="39073" lng="21.687112" lat="52.149349" evaNumber="5102242" ibnrNumber="1273" zoneKM="0" zoneZTM="0" />
+  <station name="Mieszaki" fullName="Mieszaki" shortName="Mieszaki" id="32821" lng="19.745144" lat="52.836727" evaNumber="5100327" ibnrNumber="1274" zoneKM="0" zoneZTM="0" />
+  <station name="Międzyborów" fullName="Międzyborów" shortName="Międzyborów" id="34330" lng="20.482470" lat="52.063639" evaNumber="5102205" ibnrNumber="1275" zoneKM="0" zoneZTM="0" />
+  <station name="Mika" fullName="Mika" shortName="Mika" id="39347" lng="21.748557" lat="51.672700" evaNumber="5102262" ibnrNumber="1276" zoneKM="0" zoneZTM="0" />
+  <station name="Milanówek" fullName="Milanówek" shortName="Milanówek" id="34140" lng="20.667626" lat="52.124974" evaNumber="5102298" ibnrNumber="1279" zoneKM="3" zoneZTM="0" />
+  <station name="Mińsk Maz." fullName="Mińsk Mazowiecki" shortName="Mińsk Maz." id="39008" lng="21.552303" lat="52.175845" evaNumber="5102293" ibnrNumber="429" zoneKM="3" zoneZTM="0" />
+  <station name="Mińsk Maz. Anielina" fullName="Mińsk Mazowiecki Anielina" shortName="Mińsk Maz. Aniel" id="39800" lng="21.585564" lat="52.167818" evaNumber="5104520" ibnrNumber="1570" zoneKM="3" zoneZTM="0" />
+  <station name="Mława" fullName="Mława" shortName="Mława" id="37226" lng="20.351733" lat="53.125296" evaNumber="5100219" ibnrNumber="422" zoneKM="0" zoneZTM="0" />
+  <station name="Mława Miasto" fullName="Mława Miasto" shortName="Mława Miasto" id="37218" lng="20.364249" lat="53.108617" evaNumber="5102292" ibnrNumber="5387" zoneKM="0" zoneZTM="0" />
+  <station name="Modlin" fullName="Modlin" shortName="Modlin" id="36467" lng="20.704911" lat="52.443950" evaNumber="5102206" ibnrNumber="1284" zoneKM="3" zoneZTM="0" />
+  <station name="Mokra Wieś" fullName="Mokra Wieś" shortName="Mokra Wieś" id="37994" lng="21.499975" lat="52.457494" evaNumber="5102319" ibnrNumber="1286" zoneKM="0" zoneZTM="0" />
+  <station name="Mordy" fullName="Mordy" shortName="Mordy" id="39693" lng="22.496948" lat="52.195896" evaNumber="5102209" ibnrNumber="1288" zoneKM="0" zoneZTM="0" />
+  <station name="Mordy Miasto" fullName="Mordy Miasto" shortName="Mordy Miasto" id="39719" lng="22.521190" lat="52.203275" evaNumber="5102374" ibnrNumber="1289" zoneKM="0" zoneZTM="0" />
+  <station name="Mostówka" fullName="Mostówka" shortName="Mostówka" id="37796" lng="21.442145" lat="52.519141" evaNumber="5102354" ibnrNumber="1291" zoneKM="0" zoneZTM="0" />
+  <station name="Mrozy" fullName="Mrozy" shortName="Mrozy" id="39875" lng="21.801038" lat="52.164027" evaNumber="5100174" ibnrNumber="1293" zoneKM="0" zoneZTM="0" />
+  <station name="Mysłaków" fullName="Mysłaków" shortName="Mysłaków" id="33068" lng="20.014704" lat="52.092093" evaNumber="5102367" ibnrNumber="1295" zoneKM="0" zoneZTM="0" />
+  <station name="Narzym" fullName="Narzym" shortName="Narzym" id="22434" lng="20.253766" lat="53.189931" evaNumber="5102403" ibnrNumber="5405" zoneKM="0" zoneZTM="0" />
+  <station name="Nasielsk" fullName="Nasielsk" shortName="Nasielsk" id="36707" lng="20.767915" lat="52.572191" evaNumber="5100178" ibnrNumber="131" zoneKM="0" zoneZTM="0" />
+  <station name="Niemojki" fullName="Niemojki" shortName="Niemojki" id="39743" lng="22.701711" lat="52.258796" evaNumber="5102423" ibnrNumber="1299" zoneKM="0" zoneZTM="0" />
+  <station name="Nieporęt" fullName="Nieporęt" shortName="Nieporęt" id="36624" lng="21.031723" lat="52.430694" evaNumber="5102446" ibnrNumber="1300" zoneKM="2" zoneZTM="0" />
+  <station name="Nowa Iwiczna" fullName="Nowa Iwiczna" shortName="Nowa Iwiczna" id="33910" lng="20.995797" lat="52.089451" evaNumber="5102463" ibnrNumber="1303" zoneKM="2" zoneZTM="2" />
+  <station name="Nowa Sucha" fullName="Nowa Sucha" shortName="Nowa Sucha" id="33001" lng="20.167450" lat="52.158264" evaNumber="5101988" ibnrNumber="1236" zoneKM="0" zoneZTM="0" />
+  <station name="Nowa Wieś Kościelna" fullName="Nowa Wieś Kościelna" shortName="Nowa Wieś Koście" id="23341" lng="21.417114" lat="53.083464" evaNumber="0" ibnrNumber="1305" zoneKM="0" zoneZTM="0" />
+  <station name="Nowe Dębe Wielkie" fullName="Nowe Dębe Wielkie" shortName="Nowe Dębe W." id="179081" lng="21.440231" lat="52.193400" evaNumber="5104584" ibnrNumber="1574" zoneKM="3" zoneZTM="0" />
+  <station name="Nowy Dwór Maz." fullName="Nowy Dwór Mazowiecki" shortName="Nowy Dwór Maz." id="36459" lng="20.724963" lat="52.425249" evaNumber="5102409" ibnrNumber="1309" zoneKM="3" zoneZTM="0" />
+  <station name="Nowy Nurzec" fullName="Nowy Nurzec" shortName="Nowy Nurzec" id="25346" lng="23.177304" lat="52.472629" evaNumber="5102512" ibnrNumber="1310" zoneKM="0" zoneZTM="0" />
+  <station name="Nurzec" fullName="Nurzec" shortName="Nurzec" id="25353" lng="23.083735" lat="52.460104" evaNumber="5102490" ibnrNumber="1311" zoneKM="0" zoneZTM="0" />
+  <station name="Olszewka" fullName="Olszewka" shortName="Olszewka" id="23382" lng="21.059999" lat="53.213891" evaNumber="0" ibnrNumber="1317" zoneKM="0" zoneZTM="0" />
+  <station name="Ostrołęka" fullName="Ostrołęka" shortName="Ostrołęka" id="23309" lng="21.617003" lat="53.056241" evaNumber="5102624" ibnrNumber="142" zoneKM="0" zoneZTM="0" />
+  <station name="Ostrówek Węgrowski" fullName="Ostrówek Węgrowski" shortName="Ostrówek Węgr." id="38133" lng="21.750760" lat="52.559714" evaNumber="5102642" ibnrNumber="1328" zoneKM="0" zoneZTM="0" />
+  <station name="Otwock" fullName="Otwock" shortName="Otwock" id="38885" lng="21.263062" lat="52.109603" evaNumber="5102637" ibnrNumber="147" zoneKM="2" zoneZTM="2" />
+  <station name="Otwock Śródborów" fullName="Otwock Śródborów" shortName="Otwock Śródborów" id="38919" lng="21.295903" lat="52.101150" evaNumber="5103584" ibnrNumber="1458" zoneKM="2" zoneZTM="2" />
+  <station name="Otwock Świder" fullName="Otwock Świder" shortName="Otwock Świder" id="38869" lng="21.251552" lat="52.121080" evaNumber="5103676" ibnrNumber="1459" zoneKM="2" zoneZTM="2" />
+  <station name="Ożarów Maz." fullName="Ożarów Mazowiecki" shortName="Ożarów Maz." id="34348" lng="20.796449" lat="52.207423" evaNumber="5102577" ibnrNumber="1334" zoneKM="2" zoneZTM="2" />
+  <station name="Parciaki" fullName="Parciaki" shortName="Parciaki" id="23374" lng="21.138690" lat="53.176451" evaNumber="0" ibnrNumber="1336" zoneKM="0" zoneZTM="0" />
+  <station name="Parzniew" fullName="Parzniew" shortName="Parzniew" id="262771" lng="20.763319" lat="52.156536" evaNumber="0" ibnrNumber="5469" zoneKM="3" zoneZTM="0" />
+  <station name="Pasieki" fullName="Pasieki" shortName="Pasieki" id="23671" lng="21.560642" lat="52.853570" evaNumber="5102666" ibnrNumber="1339" zoneKM="0" zoneZTM="0" />
+  <station name="Patków" fullName="Patków" shortName="Patków" id="39750" lng="22.746563" lat="52.271216" evaNumber="5102676" ibnrNumber="1340" zoneKM="0" zoneZTM="0" />
+  <station name="Piasecznica" fullName="Piasecznica" shortName="Piasecznica" id="34462" lng="20.344258" lat="52.209989" evaNumber="5102903" ibnrNumber="1342" zoneKM="0" zoneZTM="0" />
+  <station name="Piaseczno" fullName="Piaseczno" shortName="Piaseczno" id="33902" lng="21.017442" lat="52.066423" evaNumber="5102694" ibnrNumber="430" zoneKM="2" zoneZTM="2" />
+  <station name="Piastów" fullName="Piastów" shortName="Piastów" id="34124" lng="20.842691" lat="52.182577" evaNumber="5102772" ibnrNumber="1343" zoneKM="2" zoneZTM="2" />
+  <station name="Pilawa" fullName="Pilawa" shortName="Pilawa" id="39206" lng="21.533628" lat="51.955748" evaNumber="5100189" ibnrNumber="150" zoneKM="0" zoneZTM="0" />
+  <station name="Pionki" fullName="Pionki" shortName="Pionki" id="48702" lng="21.461798" lat="51.479730" evaNumber="5102766" ibnrNumber="2179" zoneKM="0" zoneZTM="0" />
+  <station name="Pionki Zachodnie" fullName="Pionki Zachodnie" shortName="Pionki Zach." id="48736" lng="21.441520" lat="51.472062" evaNumber="5102775" ibnrNumber="152" zoneKM="0" zoneZTM="0" />
+  <station name="Platerów" fullName="Platerów" shortName="Platerów" id="39768" lng="22.820759" lat="52.301046" evaNumber="5102924" ibnrNumber="1344" zoneKM="0" zoneZTM="0" />
+  <station name="Płochocin" fullName="Płochocin" shortName="Płochocin" id="34355" lng="20.703744" lat="52.200338" evaNumber="5102800" ibnrNumber="1345" zoneKM="2" zoneZTM="2" />
+  <station name="Płock" fullName="Płock" shortName="Płock" id="32607" lng="19.712571" lat="52.552775" evaNumber="5102795" ibnrNumber="156" zoneKM="0" zoneZTM="0" />
+  <station name="Płock Radziwie" fullName="Płock Radziwie" shortName="Płock Radziwie" id="32417" lng="19.672395" lat="52.524252" evaNumber="5102809" ibnrNumber="280" zoneKM="0" zoneZTM="0" />
+  <station name="Płock Trzepowo" fullName="Płock Trzepowo" shortName="Płock Trzepowo" id="32623" lng="19.734067" lat="52.586481" evaNumber="5102811" ibnrNumber="1347" zoneKM="0" zoneZTM="0" />
+  <station name="Płońsk" fullName="Płońsk" shortName="Płońsk" id="36764" lng="20.366465" lat="52.615929" evaNumber="5102803" ibnrNumber="1349" zoneKM="0" zoneZTM="0" />
+  <station name="Podbór" fullName="Podbór" shortName="Podbór" id="49064" lng="20.875478" lat="51.360461" evaNumber="5102710" ibnrNumber="2180" zoneKM="0" zoneZTM="0" />
+  <station name="Pogorzel Warszawska" fullName="Pogorzel Warszawska" shortName="Pogorzel W-wska" id="38927" lng="21.340703" lat="52.094652" evaNumber="5102746" ibnrNumber="1360" zoneKM="3" zoneZTM="0" />
+  <station name="Pomiechówek" fullName="Pomiechówek" shortName="Pomiechówek" id="36475" lng="20.743610" lat="52.473437" evaNumber="5102819" ibnrNumber="1364" zoneKM="0" zoneZTM="0" />
+  <station name="Prabuty" fullName="Prabuty" shortName="Prabuty" id="22905" lng="19.209081" lat="53.759511" evaNumber="5100194" ibnrNumber="160" zoneKM="0" zoneZTM="0" />
+  <station name="Prabuty Góry" fullName="Prabuty Góry" shortName="Prabuty Góry" id="23689" lng="21.569869" lat="52.806049" evaNumber="5102684" ibnrNumber="1366" zoneKM="0" zoneZTM="0" />
+  <station name="Proboszczewice Płockie" fullName="Proboszczewice Płockie" shortName="Proboszczewice P" id="32870" lng="19.714679" lat="52.658617" evaNumber="5102890" ibnrNumber="1368" zoneKM="0" zoneZTM="0" />
+  <station name="Prostyń" fullName="Prostyń" shortName="Prostyń" id="38372" lng="21.961007" lat="52.659234" evaNumber="5102888" ibnrNumber="1370" zoneKM="0" zoneZTM="0" />
+  <station name="Pruszków" fullName="Pruszków" shortName="Pruszków" id="34108" lng="20.799496" lat="52.168398" evaNumber="5100330" ibnrNumber="431" zoneKM="2" zoneZTM="2" />
+  <station name="Przetycz" fullName="Przetycz" shortName="Przetycz" id="23697" lng="21.551128" lat="52.768991" evaNumber="5103007" ibnrNumber="1372" zoneKM="0" zoneZTM="0" />
+  <station name="Przysucha" fullName="Przysucha" shortName="Przysucha" id="48801" lng="20.659469" lat="51.377701" evaNumber="5103008" ibnrNumber="164" zoneKM="0" zoneZTM="0" />
+  <station name="Raciąż" fullName="Raciąż" shortName="Raciąż" id="36814" lng="20.104071" lat="52.779183" evaNumber="5103051" ibnrNumber="1378" zoneKM="0" zoneZTM="0" />
+  <station name="Raciborów Kutnowski" fullName="Raciborów Kutnowski" shortName="Raciborów Kutn." id="32334" lng="19.341638" lat="52.280148" evaNumber="5103032" ibnrNumber="1379" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Główny" fullName="Radom Główny" shortName="Radom Gł." id="48355" lng="21.156468" lat="51.391262" evaNumber="5100052" ibnrNumber="169" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Gołębiów" fullName="Radom Gołębiów" shortName="Radom Gołębiów" id="264970" lng="21.188204" lat="51.411462" evaNumber="0" ibnrNumber="5516" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Potkanów" fullName="Radom Potkanów" shortName="Radom Potkanów" id="48462" lng="21.102137" lat="51.353001" evaNumber="5103062" ibnrNumber="2194" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Północny" fullName="Radom Północny" shortName="Radom Północny" id="264969" lng="21.186487" lat="51.419893" evaNumber="0" ibnrNumber="5515" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Stara Wola" fullName="Radom Stara Wola" shortName="Radom Stara Wola" id="48363" lng="21.185055" lat="51.438931" evaNumber="0" ibnrNumber="2195" zoneKM="0" zoneZTM="0" />
+  <station name="Radom Wschodni" fullName="Radom Wschodni" shortName="Radom Wschodni" id="281226" lng="21.173877" lat="51.398905" evaNumber="0" ibnrNumber="6727" zoneKM="0" zoneZTM="0" />
+  <station name="Radomyśl" fullName="Radomyśl" shortName="Radomyśl" id="39529" lng="22.380989" lat="52.031099" evaNumber="5103028" ibnrNumber="1382" zoneKM="0" zoneZTM="0" />
+  <station name="Radziwiłłów Maz." fullName="Radziwiłłów Mazowiecki" shortName="Radziwiłłów Maz." id="34249" lng="20.290392" lat="52.000329" evaNumber="5103026" ibnrNumber="1383" zoneKM="0" zoneZTM="0" />
+  <station name="Radzymin" fullName="Radzymin" shortName="Radzymin" id="38174" lng="21.177270" lat="52.424296" evaNumber="5103217" ibnrNumber="1384" zoneKM="3" zoneZTM="0" />
+  <station name="Rajec Poduchowny" fullName="Rajec Poduchowny" shortName="Rajec Poduchowny" id="48777" lng="21.253503" lat="51.415110" evaNumber="5103106" ibnrNumber="2197" zoneKM="0" zoneZTM="0" />
+  <station name="Raszujka" fullName="Raszujka" shortName="Raszujka" id="23390" lng="21.005068" lat="53.245294" evaNumber="0" ibnrNumber="1387" zoneKM="0" zoneZTM="0" />
+  <station name="Rogożew" fullName="Rogożew" shortName="Rogożew" id="32367" lng="19.541409" lat="52.461887" evaNumber="5103099" ibnrNumber="1392" zoneKM="0" zoneZTM="0" />
+  <station name="Rokitnia Stara" fullName="Rokitnia Stara" shortName="Rokitnia Stara" id="49841" lng="21.799839" lat="51.611540" evaNumber="5103115" ibnrNumber="2198" zoneKM="0" zoneZTM="0" />
+  <station name="Rożki" fullName="Rożki" shortName="Rożki" id="49163" lng="21.053934" lat="51.338785" evaNumber="5103234" ibnrNumber="2199" zoneKM="0" zoneZTM="0" />
+  <station name="Ruda Talubska" fullName="Ruda Talubska" shortName="Ruda Talubska" id="39370" lng="21.587217" lat="51.855765" evaNumber="5103192" ibnrNumber="1401" zoneKM="0" zoneZTM="0" />
+  <station name="Ruda Wielka" fullName="Ruda Wielka" shortName="Ruda Wielka" id="49130" lng="21.040250" lat="51.292620" evaNumber="5103201" ibnrNumber="2202" zoneKM="0" zoneZTM="0" />
+  <station name="Rybienko" fullName="Rybienko" shortName="Rybienko" id="37838" lng="21.457737" lat="52.582603" evaNumber="5103042" ibnrNumber="1402" zoneKM="0" zoneZTM="0" />
+  <station name="Sabinka" fullName="Sabinka" shortName="Sabinka" id="39818" lng="22.172719" lat="52.173128" evaNumber="5103247" ibnrNumber="1403" zoneKM="0" zoneZTM="0" />
+  <station name="Sadowne Węgrowskie" fullName="Sadowne Węgrowskie" shortName="Sadowne Węgr." id="38158" lng="21.862465" lat="52.607363" evaNumber="5103267" ibnrNumber="1404" zoneKM="0" zoneZTM="0" />
+  <station name="Sarnaki" fullName="Sarnaki" shortName="Sarnaki" id="39776" lng="22.880318" lat="52.325385" evaNumber="5103246" ibnrNumber="1405" zoneKM="0" zoneZTM="0" />
+  <station name="Seroki" fullName="Seroki" shortName="Seroki" id="34439" lng="20.467785" lat="52.196453" evaNumber="5103347" ibnrNumber="1407" zoneKM="0" zoneZTM="0" />
+  <station name="Siedlce" fullName="Siedlce" shortName="Siedlce" id="39404" lng="22.271317" lat="52.162052" evaNumber="5100053" ibnrNumber="182" zoneKM="0" zoneZTM="0" />
+  <station name="Siedlce Wschodnie" fullName="Siedlce Wschodnie" shortName="Siedlce Wsch." id="177923" lng="22.297919" lat="52.144265" evaNumber="5104580" ibnrNumber="1575" zoneKM="0" zoneZTM="0" />
+  <station name="Siedlce Zach." fullName="Siedlce Zachodnie" shortName="Siedlce Zach." id="233222" lng="22.235592" lat="52.173526" evaNumber="5197725" ibnrNumber="202" zoneKM="0" zoneZTM="0" />
+  <station name="Siemiatycze" fullName="Siemiatycze" shortName="Siemiatycze" id="25387" lng="22.944748" lat="52.390693" evaNumber="5103355" ibnrNumber="1411" zoneKM="0" zoneZTM="0" />
+  <station name="Sierakówek" fullName="Sierakówek" shortName="Sierakówek" id="32342" lng="19.420618" lat="52.370785" evaNumber="5103444" ibnrNumber="1413" zoneKM="0" zoneZTM="0" />
+  <station name="Sierpc" fullName="Sierpc" shortName="Sierpc" id="32706" lng="19.653289" lat="52.848138" evaNumber="5103410" ibnrNumber="184" zoneKM="0" zoneZTM="0" />
+  <station name="Siódmak" fullName="Siódmak" shortName="Siódmak" id="10637" lng="20.971469" lat="53.524433" evaNumber="0" ibnrNumber="5563" zoneKM="0" zoneZTM="0" />
+  <station name="Skarżysko-Kamienna" fullName="Skarżysko-Kamienna" shortName="Skarżysko-Kam." id="48009" lng="20.881822" lat="51.116035" evaNumber="5100209" ibnrNumber="185" zoneKM="0" zoneZTM="0" />
+  <station name="Skierniewice" fullName="Skierniewice" shortName="Skierniewice" id="47001" lng="20.149919" lat="51.967172" evaNumber="5100294" ibnrNumber="186" zoneKM="0" zoneZTM="0" />
+  <station name="Skierniewice Rawka" fullName="Skierniewice Rawka" shortName="Skierniewice Raw" id="47035" lng="20.222913" lat="51.978081" evaNumber="5103587" ibnrNumber="1416" zoneKM="0" zoneZTM="0" />
+  <station name="Skrzynno" fullName="Skrzynno" shortName="Skrzynno" id="49072" lng="20.722074" lat="51.365180" evaNumber="5103724" ibnrNumber="2219" zoneKM="0" zoneZTM="0" />
+  <station name="Słupsk" fullName="Słupsk" shortName="Słupsk" id="4705" lng="17.016474" lat="54.467454" evaNumber="5100055" ibnrNumber="188" zoneKM="0" zoneZTM="0" />
+  <station name="Smogorzów Przysuski" fullName="Smogorzów Przysuski" shortName="Smogorzów Przys." id="48835" lng="20.605009" lat="51.394905" evaNumber="5103487" ibnrNumber="2222" zoneKM="0" zoneZTM="0" />
+  <station name="Sobolew" fullName="Sobolew" shortName="Sobolew" id="39321" lng="21.672430" lat="51.741751" evaNumber="5103522" ibnrNumber="1422" zoneKM="0" zoneZTM="0" />
+  <station name="Sochaczew" fullName="Sochaczew" shortName="Sochaczew" id="34603" lng="20.238284" lat="52.214916" evaNumber="5103525" ibnrNumber="701" zoneKM="0" zoneZTM="0" />
+  <station name="Sopot" fullName="Sopot" shortName="Sopot" id="5942" lng="18.562062" lat="54.440465" evaNumber="5100056" ibnrNumber="190" zoneKM="0" zoneZTM="0" />
+  <station name="Sosnowe" fullName="Sosnowe" shortName="Sosnowe" id="39842" lng="21.940556" lat="52.175861" evaNumber="5103540" ibnrNumber="1427" zoneKM="0" zoneZTM="0" />
+  <station name="Stara Wieś" fullName="Stara Wieś" shortName="Stara Wieś" id="38935" lng="21.358808" lat="52.084274" evaNumber="5103591" ibnrNumber="1428" zoneKM="3" zoneZTM="0" />
+  <station name="Stok Lacki" fullName="Stok Lacki" shortName="Stok Lacki" id="39438" lng="22.388748" lat="52.162306" evaNumber="5103458" ibnrNumber="1435" zoneKM="0" zoneZTM="0" />
+  <station name="Strzelce Kujawskie" fullName="Strzelce Kujawskie" shortName="Strzelce Kujaw." id="32318" lng="19.368852" lat="52.322953" evaNumber="5103346" ibnrNumber="1440" zoneKM="0" zoneZTM="0" />
+  <station name="Strzyżyna" fullName="Strzyżyna" shortName="Strzyżyna" id="48561" lng="21.172742" lat="51.694144" evaNumber="5103255" ibnrNumber="2242" zoneKM="0" zoneZTM="0" />
+  <station name="Studzianki Nowe" fullName="Studzianki Nowe" shortName="Studzianki Nowe" id="36491" lng="20.751565" lat="52.537893" evaNumber="5103666" ibnrNumber="1441" zoneKM="0" zoneZTM="0" />
+  <station name="Stupsk Mazowiecki" fullName="Stupsk Mazowiecki" shortName="Stupsk Maz." id="36988" lng="20.434220" lat="53.021024" evaNumber="5103651" ibnrNumber="5602" zoneKM="0" zoneZTM="0" />
+  <station name="Sucha Żyrardowska" fullName="Sucha Żyrardowska" shortName="Sucha Żyrard." id="34223" lng="20.358058" lat="52.022489" evaNumber="5103713" ibnrNumber="1442" zoneKM="0" zoneZTM="0" />
+  <station name="Sulejówek" fullName="Sulejówek" shortName="Sulejówek" id="38711" lng="21.276999" lat="52.247776" evaNumber="5103654" ibnrNumber="1444" zoneKM="2" zoneZTM="2" />
+  <station name="Sulejówek Miłosna" fullName="Sulejówek Miłosna" shortName="Sulejówek Miłos." id="38729" lng="21.298599" lat="52.240588" evaNumber="5103424" ibnrNumber="1445" zoneKM="2" zoneZTM="2" />
+  <station name="Sułkowice" fullName="Sułkowice" shortName="Sułkowice" id="48611" lng="21.092783" lat="51.925720" evaNumber="5103691" ibnrNumber="2248" zoneKM="0" zoneZTM="0" />
+  <station name="Susk" fullName="Susk" shortName="Susk" id="32862" lng="19.683067" lat="52.785129" evaNumber="5103644" ibnrNumber="1446" zoneKM="0" zoneZTM="0" />
+  <station name="Sycze" fullName="Sycze" shortName="Sycze" id="25361" lng="22.998453" lat="52.429169" evaNumber="5103712" ibnrNumber="1448" zoneKM="0" zoneZTM="0" />
+  <station name="Szczytno" fullName="Szczytno" shortName="Szczytno" id="10603" lng="20.997587" lat="53.560063" evaNumber="0" ibnrNumber="207" zoneKM="0" zoneZTM="0" />
+  <station name="Szewnica" fullName="Szewnica" shortName="Szewnica" id="37945" lng="21.563417" lat="52.483415" evaNumber="5103517" ibnrNumber="1454" zoneKM="0" zoneZTM="0" />
+  <station name="Szulborze Wielkie" fullName="Szulborze Wielkie" shortName="Szulborze Wielk." id="24745" lng="22.227981" lat="52.760795" evaNumber="0" ibnrNumber="1455" zoneKM="0" zoneZTM="0" />
+  <station name="Szydłowiec" fullName="Szydłowiec" shortName="Szydłowiec" id="48082" lng="20.923468" lat="51.208961" evaNumber="5103698" ibnrNumber="2258" zoneKM="0" zoneZTM="0" />
+  <station name="Szymany" fullName="Szymany" shortName="Szymany" id="10629" lng="20.962912" lat="53.488753" evaNumber="0" ibnrNumber="5624" zoneKM="0" zoneZTM="0" />
+  <station name="Świercze" fullName="Świercze" shortName="Świercze" id="36830" lng="20.762871" lat="52.670323" evaNumber="5103425" ibnrNumber="5633" zoneKM="0" zoneZTM="0" />
+  <station name="Tczew" fullName="Tczew" shortName="Tczew" id="7112" lng="18.789777" lat="54.097453" evaNumber="5100061" ibnrNumber="221" zoneKM="0" zoneZTM="0" />
+  <station name="Teresin Niepokalanów" fullName="Teresin Niepokalanów" shortName="Teresin Niepokal" id="34447" lng="20.416437" lat="52.202220" evaNumber="5103722" ibnrNumber="1456" zoneKM="0" zoneZTM="0" />
+  <station name="Tłuszcz" fullName="Tłuszcz" shortName="Tłuszcz" id="37507" lng="21.433701" lat="52.430459" evaNumber="5103787" ibnrNumber="224" zoneKM="3" zoneZTM="0" />
+  <station name="Topór" fullName="Topór" shortName="Topór" id="38141" lng="21.811956" lat="52.584610" evaNumber="5103817" ibnrNumber="1462" zoneKM="0" zoneZTM="0" />
+  <station name="Trablice" fullName="Trablice" shortName="Trablice" id="48413" lng="21.101063" lat="51.349444" evaNumber="5103065" ibnrNumber="2193" zoneKM="0" zoneZTM="0" />
+  <station name="Urle" fullName="Urle" shortName="Urle" id="37937" lng="21.622328" lat="52.507439" evaNumber="5103897" ibnrNumber="1469" zoneKM="0" zoneZTM="0" />
+  <station name="Ustanówek" fullName="Ustanówek" shortName="Ustanówek" id="33936" lng="21.060599" lat="51.995808" evaNumber="5103915" ibnrNumber="1470" zoneKM="3" zoneZTM="0" />
+  <station name="Ustka" fullName="Ustka" shortName="Ustka" id="4952" lng="16.861922" lat="54.578414" evaNumber="5100063" ibnrNumber="232" zoneKM="0" zoneZTM="0" />
+  <station name="Warka" fullName="Warka" shortName="Warka" id="48504" lng="21.169142" lat="51.793346" evaNumber="5103937" ibnrNumber="2275" zoneKM="0" zoneZTM="0" />
+  <station name="Warka Miasto" fullName="Warka Miasto" shortName="Warka Miasto" id="265204" lng="21.177840" lat="51.780494" evaNumber="0" ibnrNumber="6580" zoneKM="0" zoneZTM="0" />
+  <station name="Warszawa Al. Jerozolimskie" fullName="Warszawa Aleje Jerozolimskie" shortName="Warszawa Al. Jer" id="33456" lng="20.941047" lat="52.205993" evaNumber="5128148" ibnrNumber="1496" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Anin" fullName="Warszawa Anin" shortName="Warszawa Anin" id="38760" lng="21.159854" lat="52.213091" evaNumber="5104146" ibnrNumber="1473" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Centralna" fullName="Warszawa Centralna" shortName="Warszawa Centr." id="33605" lng="21.003393" lat="52.228618" evaNumber="5100065" ibnrNumber="242" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Choszczówka" fullName="Warszawa Choszczówka" shortName="Warszawa Choszcz" id="36160" lng="20.972057" lat="52.358233" evaNumber="5103923" ibnrNumber="1474" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Dawidy" fullName="Warszawa Dawidy" shortName="Warszawa Dawidy" id="33845" lng="20.991151" lat="52.128658" evaNumber="5103952" ibnrNumber="1475" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Falenica" fullName="Warszawa Falenica" shortName="Warszawa Falen." id="38836" lng="21.21434" lat="52.15832" evaNumber="5103998" ibnrNumber="1476" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Gdańska" fullName="Warszawa Gdańska" shortName="Warszawa Gdańska" id="36103" lng="20.992476" lat="52.259135" evaNumber="5100172" ibnrNumber="243" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Główna" fullName="Warszawa Główna" shortName="Warszawa Główna" id="33472" lng="20.982235" lat="52.225221" evaNumber="0" ibnrNumber="1477" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Gocławek" fullName="Warszawa Gocławek" shortName="Warszawa Gocław." id="38539" lng="21.135718" lat="52.236936" evaNumber="5103920" ibnrNumber="1478" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Gołąbki" fullName="Warszawa Gołąbki" shortName="Warszawa Gołąbki" id="33449" lng="20.863762" lat="52.208376" evaNumber="5103925" ibnrNumber="1479" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Grochów" fullName="Warszawa Grochów" shortName="Warszawa Grochów" id="265250" lng="21.083820" lat="52.255530" evaNumber="0" ibnrNumber="6656" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Jeziorki" fullName="Warszawa Jeziorki" shortName="Warszawa Jezior." id="33878" lng="20.993275" lat="52.109455" evaNumber="5104032" ibnrNumber="1482" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Koło" fullName="Warszawa Koło" shortName="Warszawa Koło" id="261233" lng="20.959040" lat="52.246200" evaNumber="0" ibnrNumber="1481" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Lotn. Chopina" fullName="Warszawa Lotnisko Chopina" shortName="Warszawa L. Chop" id="241994" lng="20.975095" lat="52.169599" evaNumber="5103819" ibnrNumber="1499" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Miedzeszyn" fullName="Warszawa Miedzeszyn" shortName="Warszawa Miedz." id="38810" lng="21.20249" lat="52.17037" evaNumber="5103932" ibnrNumber="1485" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Międzylesie" fullName="Warszawa Międzylesie" shortName="Warszawa Międzyl" id="38778" lng="21.168784" lat="52.204145" evaNumber="5104080" ibnrNumber="1486" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Młynów" fullName="Warszawa Młynów" shortName="Warszawa Młynów" id="34835" lng="20.958450" lat="52.239050" evaNumber="5103930" ibnrNumber="1484" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Mokry Ług" fullName="Warszawa Mokry Ług" shortName="Warszawa M. Ług" id="258646" lng="21.170512" lat="52.277244" evaNumber="5104779" ibnrNumber="1480" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Ochota" fullName="Warszawa Ochota" shortName="Warszawa Ochota" id="33498" lng="20.990958" lat="52.225858" evaNumber="5103934" ibnrNumber="1487" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Okęcie" fullName="Warszawa Okęcie" shortName="Warszawa Okęcie" id="33803" lng="20.987396" lat="52.167081" evaNumber="5104150" ibnrNumber="1489" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Olszynka Groch." fullName="Warszawa Olszynka Grochowska" shortName="Warszawa Olsz. G" id="38745" lng="21.106694" lat="52.249803" evaNumber="5103927" ibnrNumber="1490" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Płudy" fullName="Warszawa Płudy" shortName="Warszawa Płudy" id="36152" lng="20.985993" lat="52.333921" evaNumber="5104160" ibnrNumber="1491" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Powązki" fullName="Warszawa Powązki" shortName="Warszawa Powązki" id="264520" lng="20.971233" lat="52.255701" evaNumber="0" ibnrNumber="1488" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Powiśle" fullName="Warszawa Powiśle" shortName="Warszawa Powiśle" id="33639" lng="21.028139" lat="52.233743" evaNumber="5104154" ibnrNumber="1492" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Praga" fullName="Warszawa Praga" shortName="Warszawa Praga" id="36129" lng="21.022260" lat="52.277697" evaNumber="5104161" ibnrNumber="1493" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Radość" fullName="Warszawa Radość" shortName="Warszawa Radość" id="38786" lng="21.19129" lat="52.18168" evaNumber="5104149" ibnrNumber="1494" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Rakowiec" fullName="Warszawa Rakowiec" shortName="Warszawa Rakow." id="33555" lng="20.966201" lat="52.196787" evaNumber="5104216" ibnrNumber="1495" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Rembertów" fullName="Warszawa Rembertów" shortName="Warszawa Remb." id="38661" lng="21.158724" lat="52.257102" evaNumber="5103922" ibnrNumber="1498" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Służewiec" fullName="Warszawa Służewiec" shortName="Warszawa Służew." id="33563" lng="20.987145" lat="52.180734" evaNumber="5104157" ibnrNumber="1500" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Stadion" fullName="Warszawa Stadion" shortName="Warszawa Stadion" id="33647" lng="21.043959" lat="52.244848" evaNumber="5104158" ibnrNumber="1501" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Śródmieście" fullName="Warszawa Śródmieście" shortName="Warszawa Śródm." id="33571" lng="21.007620" lat="52.229413" evaNumber="5100246" ibnrNumber="1502" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Targówek" fullName="Warszawa Targówek" shortName="Warszawa Targów." id="263452" lng="21.053739" lat="52.263785" evaNumber="0" ibnrNumber="6581" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Toruńska" fullName="Warszawa Toruńska" shortName="Warszawa Toruń." id="36137" lng="21.013313" lat="52.293730" evaNumber="5104196" ibnrNumber="1503" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Ursus" fullName="Warszawa Ursus" shortName="Warszawa Ursus" id="33530" lng="20.885880" lat="52.196586" evaNumber="5103940" ibnrNumber="1504" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Ursus Niedźwiadek" fullName="Warszawa Ursus Niedźwiadek" shortName="Warszawa Ursus N" id="251603" lng="20.870138" lat="52.191596" evaNumber="5104686" ibnrNumber="1509" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Ursus Płn." fullName="Warszawa Ursus Północny" shortName="Warszawa Ursus P" id="33548" lng="20.889656" lat="52.205743" evaNumber="5104164" ibnrNumber="1505" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wawer" fullName="Warszawa Wawer" shortName="Warszawa Wawer" id="38737" lng="21.149451" lat="52.223491" evaNumber="5103942" ibnrNumber="1506" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wesoła" fullName="Warszawa Wesoła" shortName="Warszawa Wesoła" id="38679" lng="21.224099" lat="52.254084" evaNumber="5103992" ibnrNumber="1516" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wileńska" fullName="Warszawa Wileńska" shortName="Warszawa Wileń." id="37440" lng="21.039072" lat="52.256189" evaNumber="5104226" ibnrNumber="403" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Włochy" fullName="Warszawa Włochy" shortName="Warszawa Włochy" id="33514" lng="20.914638" lat="52.206121" evaNumber="5104165" ibnrNumber="1507" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wola" fullName="Warszawa Wola" shortName="Warszawa Wola" id="34850" lng="20.957930" lat="52.229710" evaNumber="5104156" ibnrNumber="1483" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wola Grzybowska" fullName="Warszawa Wola Grzybowska" shortName="Warszawa Wola G." id="38687" lng="21.250838" lat="52.252809" evaNumber="5104098" ibnrNumber="1526" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Wschodnia" fullName="Warszawa Wschodnia" shortName="Warszawa Wsch." id="38653" lng="21.052366" lat="52.251373" evaNumber="5100066" ibnrNumber="244" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Zachodnia" fullName="Warszawa Zachodnia" shortName="Warszawa Zach." id="33506" lng="20.966024" lat="52.219719" evaNumber="5100067" ibnrNumber="404" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Zachodnia" fullName="Warszawa Zachodnia " shortName="Warszawa Zach.P9" id="34868" lng="20.961410" lat="52.221960" evaNumber="5104228" ibnrNumber="404" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Zacisze Wilno" fullName="Warszawa Zacisze Wilno" shortName="Warszawa Zac. W." id="251565" lng="21.080100" lat="52.277907" evaNumber="5104679" ibnrNumber="409" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa ZOO" fullName="Warszawa ZOO" shortName="Warszawa ZOO" id="36111" lng="21.017888" lat="52.263602" evaNumber="5104233" ibnrNumber="1510" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Żerań" fullName="Warszawa Żerań" shortName="Warszawa Żerań" id="36145" lng="20.999065" lat="52.313995" evaNumber="5104227" ibnrNumber="1511" zoneKM="1" zoneZTM="1" />
+  <station name="Warszawa Żwirki i Wigury" fullName="Warszawa Żwirki i Wigury" shortName="Warszawa Ż. i W." id="240720" lng="20.980540" lat="52.193367" evaNumber="5149451" ibnrNumber="1497" zoneKM="1" zoneZTM="1" />
+  <station name="Wejherowo" fullName="Wejherowo" shortName="Wejherowo" id="6304" lng="18.229355" lat="54.605926" evaNumber="5100153" ibnrNumber="234" zoneKM="0" zoneZTM="0" />
+  <station name="Wielbark" fullName="Wielbark" shortName="Wielbark" id="23432" lng="20.952760" lat="53.398697" evaNumber="0" ibnrNumber="238" zoneKM="0" zoneZTM="0" />
+  <station name="Wieliszew" fullName="Wieliszew" shortName="Wieliszew" id="36582" lng="20.975046" lat="52.428332" evaNumber="5104220" ibnrNumber="1518" zoneKM="2" zoneZTM="0" />
+  <station name="Wieniawa" fullName="Wieniawa" shortName="Wieniawa" id="49049" lng="20.790527" lat="51.363425" evaNumber="5104028" ibnrNumber="2280" zoneKM="0" zoneZTM="0" />
+  <station name="Witanów" fullName="Witanów" shortName="Witanów" id="34371" lng="20.574274" lat="52.185946" evaNumber="5104025" ibnrNumber="1521" zoneKM="3" zoneZTM="0" />
+  <station name="Wkra" fullName="Wkra" shortName="Wkra" id="36731" lng="20.572188" lat="52.584669" evaNumber="5104054" ibnrNumber="1524" zoneKM="0" zoneZTM="0" />
+  <station name="Wola Bierwiecka" fullName="Wola Bierwiecka" shortName="Wola Bierwiecka" id="48447" lng="21.177479" lat="51.543934" evaNumber="5104093" ibnrNumber="2288" zoneKM="0" zoneZTM="0" />
+  <station name="Wola Lipieniecka" fullName="Wola Lipieniecka" shortName="Wola Lipieniecka" id="49148" lng="21.026397" lat="51.276827" evaNumber="5104070" ibnrNumber="2291" zoneKM="0" zoneZTM="0" />
+  <station name="Wola Rowska" fullName="Wola Rowska" shortName="Wola Rowska" id="39271" lng="21.601151" lat="51.821607" evaNumber="5104074" ibnrNumber="1528" zoneKM="0" zoneZTM="0" />
+  <station name="Wolanów" fullName="Wolanów" shortName="Wolanów" id="48454" lng="21.000210" lat="51.353182" evaNumber="5104102" ibnrNumber="2292" zoneKM="0" zoneZTM="0" />
+  <station name="Wołomin" fullName="Wołomin" shortName="Wołomin" id="36343" lng="21.238074" lat="52.346731" evaNumber="5104103" ibnrNumber="1529" zoneKM="2" zoneZTM="2" />
+  <station name="Wołomin Słoneczna" fullName="Wołomin Słoneczna" shortName="Wołomin Słonecz." id="36350" lng="21.255803" lat="52.354326" evaNumber="5104071" ibnrNumber="1530" zoneKM="2" zoneZTM="2" />
+  <station name="Wrzosów" fullName="Wrzosów" shortName="Wrzosów" id="39156" lng="21.482648" lat="52.184413" evaNumber="5104141" ibnrNumber="1535" zoneKM="3" zoneZTM="0" />
+  <station name="Wygoda" fullName="Wygoda" shortName="Wygoda" id="39339" lng="21.731149" lat="51.688719" evaNumber="5104204" ibnrNumber="1537" zoneKM="0" zoneZTM="0" />
+  <station name="Wyszków" fullName="Wyszków" shortName="Wyszków" id="37762" lng="21.446570" lat="52.601390" evaNumber="5104211" ibnrNumber="425" zoneKM="0" zoneZTM="0" />
+  <station name="Wyszyny" fullName="Wyszyny" shortName="Wyszyny" id="37028" lng="20.392216" lat="53.061146" evaNumber="5104213" ibnrNumber="5709" zoneKM="0" zoneZTM="0" />
+  <station name="Zabiele Wielkie" fullName="Zabiele Wielkie" shortName="Zabiele Wielkie" id="23358" lng="21.341615" lat="53.085004" evaNumber="0" ibnrNumber="1539" zoneKM="0" zoneZTM="0" />
+  <station name="Zabieżki" fullName="Zabieżki" shortName="Zabieżki" id="38976" lng="21.471947" lat="52.012409" evaNumber="5104275" ibnrNumber="1540" zoneKM="0" zoneZTM="0" />
+  <station name="Zagościniec" fullName="Zagościniec" shortName="Zagościniec" id="36368" lng="21.280536" lat="52.364854" evaNumber="5104310" ibnrNumber="1541" zoneKM="2" zoneZTM="2" />
+  <station name="Zajezierze k. Dęblina" fullName="Zajezierze k. Dęblina" shortName="Zajezierze k. D." id="49916" lng="21.816944" lat="51.541154" evaNumber="5104238" ibnrNumber="2299" zoneKM="0" zoneZTM="0" />
+  <station name="Zalesie Górne" fullName="Zalesie Górne" shortName="Zalesie Górne" id="33928" lng="21.041759" lat="52.026515" evaNumber="5104344" ibnrNumber="1543" zoneKM="2" zoneZTM="2" />
+  <station name="Zaręby Kościelne" fullName="Zaręby Kościelne" shortName="Zaręby Kościelne" id="38356" lng="22.140946" lat="52.730983" evaNumber="0" ibnrNumber="1546" zoneKM="0" zoneZTM="0" />
+  <station name="Zawidz" fullName="Zawidz" shortName="Zawidz" id="32805" lng="19.844123" lat="52.829376" evaNumber="5104319" ibnrNumber="1548" zoneKM="0" zoneZTM="0" />
+  <station name="Zawidz Kościelny" fullName="Zawidz Kościelny" shortName="Zawidz Kościelny" id="32839" lng="19.878718" lat="52.823905" evaNumber="5104406" ibnrNumber="1549" zoneKM="0" zoneZTM="0" />
+  <station name="Ząbki" fullName="Ząbki" shortName="Ząbki" id="37457" lng="21.113443" lat="52.292507" evaNumber="5104336" ibnrNumber="1550" zoneKM="1" zoneZTM="2" />
+  <station name="Zielonka" fullName="Zielonka" shortName="Zielonka" id="36228" lng="21.157593" lat="52.311799" evaNumber="5104322" ibnrNumber="427" zoneKM="2" zoneZTM="2" />
+  <station name="Zielonka Bankowa" fullName="Zielonka Bankowa" shortName="Zielonka Bankowa" id="36236" lng="21.152845" lat="52.292444" evaNumber="5104318" ibnrNumber="1556" zoneKM="2" zoneZTM="2" />
+  <station name="Zygmuntowo Maz." fullName="Zygmuntowo Mazowieckie" shortName="Zygmuntowo Maz." id="23739" lng="21.525742" lat="52.727613" evaNumber="5104414" ibnrNumber="1560" zoneKM="0" zoneZTM="0" />
+  <station name="Zygmuntów" fullName="Zygmuntów" shortName="Zygmuntów" id="48843" lng="20.570447" lat="51.409245" evaNumber="5104412" ibnrNumber="2308" zoneKM="0" zoneZTM="0" />
+  <station name="Życzyn" fullName="Życzyn" shortName="Życzyn" id="39354" lng="21.760937" lat="51.647215" evaNumber="5104410" ibnrNumber="1565" zoneKM="0" zoneZTM="0" />
+  <station name="Żyrardów" fullName="Żyrardów" shortName="Żyrardów" id="34207" lng="20.449109" lat="52.052441" evaNumber="5104415" ibnrNumber="1566" zoneKM="0" zoneZTM="0" />
+  <station name="Żytkowice" fullName="Żytkowice" shortName="Żytkowice" id="48785" lng="21.556478" lat="51.483004" evaNumber="5104417" ibnrNumber="2311" zoneKM="0" zoneZTM="0" />
+</stations>
